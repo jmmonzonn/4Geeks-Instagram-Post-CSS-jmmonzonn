@@ -1,0 +1,79 @@
+body {
+    background: black;
+}
+
+.post {
+    height: 400px;
+    width: 300px;
+    background: white;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.post-header {
+    display: flex;
+}
+
+.post-title {
+    width: 100px;
+}
+
+.title {
+    margin: 0;
+    font-size: 11px;
+}
+
+.html {
+    margin-top: 9px !important;
+}
+
+.header-icon {
+    margin: 10px;
+    font-size: 23px;
+}
+
+.post-main {
+    width: 220px;
+    text-align: end;
+}
+
+.elipsis {
+    margin: 8px;
+    margin-top: 12px !important;
+    font-size: 19px;
+}
+
+.image {
+    height: 230px;
+    width: 300px;
+}
+
+.post-icons {
+    display: flex;
+    margin: 5px;
+}
+
+.icons {
+    height: 20px;
+    width: 20px;
+    margin-left: 2px;
+}
+
+.post-last-icon {
+    width: 210px;
+    text-align: end;
+}
+
+.likes {
+    margin: 0;
+    margin-top: 2px;
+    margin-left: 6px;
+    font-size: 10px;
+}
+
+.paragraph {
+    margin-top: 7px;
+    margin-left: 6px;
+    margin-right: 6px;
+    font-size: 10px;
+}
